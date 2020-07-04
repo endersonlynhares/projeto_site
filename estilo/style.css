@@ -18,3 +18,7 @@ main{
 header{
     color: blueviolet;
 }
+
+.lado{
+    float: right;
+}
