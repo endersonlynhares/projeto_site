@@ -10,7 +10,11 @@ body{
 main{
     background-color: white;
     width: 500px;
+    padding: 10px;
     margin: 30px auto;
-    color: blueviolet;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.486);
+}
+
+header{
+    color: blueviolet;
 }
